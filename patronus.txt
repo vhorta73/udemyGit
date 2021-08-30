@@ -42,8 +42,4 @@ ILY'S PATRONUS
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
-<<<<<<< HEAD
-
 Something else here
-=======
->>>>>>> 66f33a2 (Add snape's doe patronus)
