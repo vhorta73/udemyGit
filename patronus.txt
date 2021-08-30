@@ -24,7 +24,6 @@ HARRY'S PATRONUS
            | || |           | |   | |
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
-
 Something else here..
 
 ILY'S PATRONUS
@@ -43,5 +42,8 @@ ILY'S PATRONUS
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
+<<<<<<< HEAD
 
 Something else here
+=======
+>>>>>>> 66f33a2 (Add snape's doe patronus)
